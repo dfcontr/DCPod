@@ -31,5 +31,5 @@ s.source = { :git => "https://github.com/dfcontr/DCPod.git", :tag => "#{s.versio
 s.source_files = "DCPod/**/*.{swift}"
 
 # 9
-s.resources = "DCPod/**/*.{png,jpeg,jpg,storyboard,xib}"
+#s.resources = "DCPod/**/*.{png,jpeg,jpg,storyboard,xib}"
 end
