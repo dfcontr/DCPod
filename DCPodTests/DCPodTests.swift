@@ -33,4 +33,8 @@ class DCPodTests: XCTestCase {
         }
     }
     
+    func testSumIntegers() {
+        XCTAssertEqual(sum(a: 1, b: 2), 3)
+    }
+    
 }
